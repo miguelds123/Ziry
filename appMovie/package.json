@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://miguelds123.github.io/Ziry/build",
   "scripts": {
     "start": "nodemon --watch src/**/* -e js,jsx,ts,tsx,json,html --exec vite",
     "dev": "vite",
